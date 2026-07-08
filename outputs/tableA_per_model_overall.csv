@@ -1,0 +1,11 @@
+model,type,accuracy,macroF1,F1_95CI,n_pred
+GPT-5.4,frontier,69.0,69.7,"[62.4, 76.8]",10356
+DeepSeek-V3,frontier,63.9,64.8,"[56.8, 71.8]",10367
+Claude Sonnet 4.6,frontier,63.2,64.1,"[56.3, 70.9]",7772
+II-Medical-8B,medical,56.6,56.4,"[49.3, 62.8]",8604
+GigaChat,russian,55.3,56.3,"[49.4, 62.7]",10357
+MedGemma-27B-IT,medical,53.6,54.3,"[46.5, 61.6]",8637
+MedGemma-4B-IT,medical,45.0,44.9,"[37.9, 52.1]",8633
+Llama3-OpenBioLLM-70B,medical,45.4,44.6,"[37.9, 51.3]",7517
+Med-Qwen2-7B,medical,42.6,41.3,"[37.7, 44.7]",7581
+YandexGPT,russian,41.3,39.8,"[32.3, 47.5]",10367

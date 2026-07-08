@@ -1,0 +1,8 @@
+{
+  "frontier_majority_acc": 67.5925925925926,
+  "frontier_unanimous": 90,
+  "frontier_unanimous_wrong": 28,
+  "all10_majority_acc": 54.629629629629626,
+  "false_consensus_n": 30,
+  "false_consensus_dom_disputed": 28
+}

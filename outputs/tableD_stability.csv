@@ -1,0 +1,11 @@
+model,type,intra_alpha,accuracy,macroF1
+YandexGPT,russian,0.9420861480960953,41.3,39.8
+GPT-5.4,frontier,0.9320524106203,69.0,69.7
+DeepSeek-V3,frontier,0.914663751853129,63.9,64.8
+Claude Sonnet 4.6,frontier,0.90092459932234,63.2,64.1
+MedGemma-4B-IT,medical,0.8304864375670343,45.0,44.9
+MedGemma-27B-IT,medical,0.7770482828116613,53.6,54.3
+GigaChat,russian,0.7339358580371541,55.3,56.3
+II-Medical-8B,medical,0.7323066702541646,56.6,56.4
+Llama3-OpenBioLLM-70B,medical,0.6429161619873497,45.4,44.6
+Med-Qwen2-7B,medical,0.18644296051448717,42.6,41.3

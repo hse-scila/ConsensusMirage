@@ -1,0 +1,109 @@
+﻿id,topic,statement_ru,statement_en,veracity
+0,vitamins,Здоровым детям обычно не нужно принимать поливитамины,Healthy children usually do not need to take multivitamins.,true
+1,vitamins,Большие дозы витаминов могут быть токсичными,Large doses of vitamins can be toxic.,true
+2,vitamins,У витаминов нет срока годности,Vitamin supplements have no expiration date.,false
+3,vitamins,"Витамины, полученные из еды, лучше, чем витамины в таблетках",Vitamins from food are better than vitamins in supplements.,disputed
+4,vitamins,Витамин K полезен для здоровья костей,Vitamin K is good for bone health.,true
+5,vitamins,"Чтобы получить норму витаминов группы К, достаточного включить зелень в свой рацион","To get the required amount of vitamin K, it is enough to include greens in your diet.",disputed
+6,vitamins,Укол витамина К способен вызвать лейкемию у ребенка,Vitamin K injection can cause leukemia in children.,false
+7,lifestyle,"Глазирователи, которыми разрешено смазывать фрукты перед продажей, безвредны для здоровья",Glazing agents that are permitted to be used to coat fruit before sale are harmless to health.,true
+8,lifestyle,"Ранние арбузы могут содержать нитраты, опасные для здоровья",Early watermelons may contain nitrates that are hazardous to health.,true
+9,lifestyle,Бананы не нужно мыть перед употреблением в пищу,Bananas do not need to be washed before eating.,false
+10,,"Даже разрешенные химикаты, которыми смазывают фрукты для продления срока их хранения, опасны для здоровья",Even approved chemicals used to coat fruit to extend its shelf life are hazardous to health.,false
+11,lifestyle,Овощи достаточно тщательно промыть в проточной чистой воде,It is enough to thoroughly wash the vegetables in clean running water.,true
+12,lifestyle,"Фрукты, которые долго хранились, менее витаминные, чем сезонные",Fruits that have been stored for a long time contain fewer vitamins than seasonal fruits.,disputed
+13,lifestyle,Сухофрукты не нужно мыть перед употреблением в пищу,Dried fruit does not need to be washed before eating.,false
+14,lifestyle,Отказ от курения нормализует уровень холестерина,Quitting smoking normalizes cholesterol levels,true
+15,lifestyle,Высокий уровень холестерина обычно не имеет симптомов,High cholesterol usually comes with no symptoms.,true
+16,lifestyle,Высокий уровень холестерина обычно сопровождается явными симптомами,High cholesterol usually comes with obvious symptoms.,disputed
+17,lifestyle,Любой холестерин вреден,Any type of cholesterol is harmful.,false
+18,lifestyle,Здоровый образ жизни помогает поддерживать нормальный уровень холестерина.,A healthy lifestyle helps maintain normal cholesterol levels.,disputed
+19,lifestyle,Даже при нормальном весе уровень холестерина может быть высоким,"Even with a normal weight, cholesterol levels can be high.",true
+20,lifestyle,Людям до 40 лет не нужно проверять уровень холестерина,People under 40 do not need to check their cholesterol levels.,false
+21,lifestyle,"Нужно избегать продуктов, содержащих холестерин",You should avoid foods that contain cholesterol.,false
+22,lifestyle,Сахарозаменители снижают риск возникновения кариеса,Sugar substitutes reduce the risk of tooth decay,disputed
+23,lifestyle,Сахарозаменитель можно использовать как средство для похудения,Sugar substitutes can be used as a weight loss aid.,disputed
+24,lifestyle,Сахарозаменители вызывают диабет,Sugar substitutes cause diabetes.,disputed
+25,vaccine,Серьезные побочные эффекты вакцин чрезвычайно редки,Serious side effects from vaccines are extremely rare.,true
+26,,"Инфекции, ставшие редкими из-за вакцинации, появятся вновь, если не прививать население",Infections that have become rare due to vaccination will reappear if the population is not vaccinated.,true
+27,vaccine,"В вакцинах не будет необходимости, когда вырастет уровень санитарии и гигиены",Vaccines will no longer be necessary when sanitation and hygiene levels improve.,false
+28,vaccine,"Большинство вакцин вызывают ряд опасных побочных эффектов, которые еще не известны.",Most vaccines cause a number of dangerous side effects that are not yet known.,false
+29,vaccine,Одновременное введение нескольких вакцин безопасно для иммунной системы ребенка,Administering multiple vaccines at the same time is safe for a child's immune system.,true
+30,vaccine,Возбудители инфекций могут пересекать границы государств,Infectious agents can cross national borders.,true
+31,vaccine,"Если нет пандемий, то нет смысла прививаться от болезней.","If there are no pandemics, then there is no point in getting vaccinated against diseases.",false
+32,vaccine,Одновременное введение ребенку более одной вакцины пагубно влияет на его иммунную систему,Administering more than one vaccine to a child at the same time can have a detrimental effect on their immune system.,false
+33,vaccine,"В одной дозе вакцины ртути меньше, чем городской ребенок принимает с пищей, водой и воздухом в течение дня","One dose of the vaccine contains less mercury than a city child consumes from food, water and air during the day.",true
+34,vaccine,Многие инфекции могут распространяться независимо от степени нашей чистоплотности,Many infections can spread regardless of how clean we are.,true
+35,vaccine,"Лучше получить иммунитет в результате болезни, чем вакцинации.",It is better to gain immunity as a result of illness than vaccination.,false
+36,vaccine,Вакцина против кори-паротита-краснухи не вызывает аутизм,The measles-mumps-rubella vaccine does not cause autism.,true
+37,vaccine,Универсальной вакцины от гриппа не существует,There is no universal flu vaccine.,true
+38,vaccine,Некоторые вакцины являются надежной профилактикой аутизма,Some vaccines are a reliable prevention against autism.,false
+39,vaccine,Вакцины приводят к развитию аутизма  у детей,Vaccines cause autism in children.,false
+40,vaccine,"Вакцинация помогает избежать серьезных осложнений, вызванных инфекционным заболеванием",Vaccination helps prevent serious complications caused by infectious diseases.,true
+41,vaccine,Вакцины могут вызывать аллергическую реакцию у некоторых людей,Vaccines can cause allergic reactions in some people.,true
+42,vaccine,Все вакцины являются гипоалергенными,All vaccines are hypoallergenic.,false
+43,vaccine,Использование любой вакцины приводит к аллергическим реакциям,The use of any vaccine leads to allergic reactions.,false
+44,vitamins,Витамин Д снижает риск развития некоторых видов рака.,Vitamin D reduces the risk of developing certain types of cancer.,false
+45,,Чрезмерное потребление витамина D может приводить к камням в почках,Excessive consumption of vitamin D can lead to kidney stones.,disputed
+46,vitamins,Витамин D снижает артериальное давление.,Vitamin D lowers blood pressure,false
+47,vitamins,Употребление витамина D усугубляет депрессию.,Vitamin D consumption exacerbates depression.,false
+48,altMedicine,Регулярное употребление отвара шиповника может снизить риск сердечно-сосудистых заболеваний.,Regular consumption of rosehip brew can reduce the risk of cardiovascular disease.,disputed
+49,altMedicine,Отвар шиповника повышает уровень сахара в крови,Rosehip brew raises blood sugar levels.,false
+50,altMedicine,Употребление чеснока может профилактироватьт раковые заболевания.,The intake of garlic may serve as a cancer preventative.,disputed
+51,altMedicine,Чрезмерное употребление чеснока может спровоцировать изжогу.,Excessive consumption of garlic can cause heartburn.,true
+52,,Употребление чеснока нормализует давление,Eating garlic normalizes blood pressure.,disputed
+53,lifestyle,Обработка фруктов соком алоэ увеличивет срок их хранения.,Coating fruit with aloe juice increases its shelf life.,true
+54,lifestyle,Чрезмерное употребление алоэ может вызвать проблемы с пищеварительной системой.,Excessive consumption of aloe can cause digestive problems.,true
+55,lifestyle,Употребление алоэ может спровоцировать рак пищевода,Consuming aloe can cause esophageal cancer.,false
+56,altMedicine,Регулярное употребление картофеля снижает уровень артериального давления.,Regular consumption of potatoes lowers blood pressure.,false
+57,altMedicine,Употребление картофеля с ростками на клубне опасно для организма.,Consuming potatoes with sprouts on the tuber is dangerous for the body.,true
+58,altMedicine,Зеленоватый картофель можно употреблять в пищу,Greenish potatoes can be eaten,disputed
+59,altMedicine,Картофель вреден для пищеварительной системы,Potatoes are harmful to the digestive system.,false
+60,lifestyle,Занятия йогой снижают уровень холестерина,Yoga classes lower cholesterol levels.,disputed
+61,,Занятия йогой без подготовки травмоопасны,Yoga practice without preparation is injury-prone.,true
+62,lifestyle,Занятия йогой помогают при лечении функциональных желудочно-кишечных расстройств,Yoga classes help in the treatment of functional gastrointestinal disorders.,disputed
+63,lifestyle,Занятия йогой вредны для суставов,Yoga classes are harmful to the joints.,disputed
+64,lifestyle,Веганская диета профилактирует сердечно-сосудистые заболевания.,A vegan diet helps prevent cardiovascular disease.,disputed
+65,,Веганская диета может негативно сказаться на здоровье костей,A vegan diet can negatively affect bone health.,disputed
+66,lifestyle,Рацион сыроеда обеспечивает организм всеми необходимыми микроэлементами,A raw food diet provides the body with all the necessary micronutrients.,false
+67,lifestyle,Веганская диета повышает риск развития сердечно-сосудисых заболеваний.,A vegan diet increases the risk of developing cardiovascular disease.,false
+68,,Курение помогает на какое-то время снизить тревожность,Smoking helps reduce anxiety for a while.,disputed
+69,lifestyle,Пассивное курение увеличивает шанс развития рака легких,Passive smoking increases the risk of developing lung cancer.,true
+70,lifestyle,Электронные сиграеты не вызывают привыкания к никотину,Electronic cigarettes do not cause nicotine addiction.,false
+71,lifestyle,Курение не опасно при беременности,Smoking is not dangerous during pregnancy.,false
+72,altMedicine,Контрастный душ помогает восстановлению мышц после физических нагрузок,Contrast showers help muscles recover after physical exertion.,disputed
+73,altMedicine,Контрастный душ ускоряет выздоровление при вирусных заболеваниях,Contrast showers speed up recovery from viral illnesses.,false
+74,altMedicine,Контрастный душ ослабляет иммунитет,Contrast showers weaken the immune system.,false
+75,gmo,Продукты с ГМО безопасны для здоровья человека,GMO products are safe for human health.,true
+76,gmo,Генно-модифицированные растения быстрее истощают почву,Genetically modified plants deplete the soil faster.,disputed
+77,gmo,Продукты с ГМО не оставляют никакого следа в организме человека,GMO products leave no trace in the human body.,true
+78,gmo,Генно-модифицированная трава убивает скот,Genetically modified grass kills livestock.,false
+79,gmo,Продукты с ГМО не изменяют ДНК человека,GMO products do not alter human DNA.,true
+80,gmo,Продукты с ГМО содержат несвойственные для них участки ДНК,GMO products contain DNA segments that are not characteristic of them.,true
+81,gmo,Продукты с ГМО полезны для организма,GMO products are beneficial for the body.,disputed
+82,gmo,Продукты с ГМО опасны для здоровья,GMO products are hazardous to health.,false
+83,gmo,"Генная модификация может придавать растениям полезные свойства, например, устойчивость к вредителям","Genetic modification can give plants useful properties, such as resistance to pests.",true
+84,gmo,Продукты с ГМО теряют во вкусовых качествах по сравнению с традиционными продуктами,GMO products lose out in taste compared to traditional products.,false
+85,gmo,Все продукты на основе ГМО проходят тщательную проверку,All GMO-based products undergo thorough testing.,true
+86,gmo,Продукты  с ГМО вызывают мутации,GMO products cause mutations.,false
+87,gmo,В России существует система санитарного контроля за ГМО-продукцией,Russia has a system of sanitary control over GMO products.,true
+88,gmo,Продукты с ГМО приводят к бесплодию.,GMO products cause infertility.,false
+89,lifestyle,Здоровый сон помогает поддерживать хорошее психоэмоциональное состояние,Healthy sleep helps maintain a good psycho-emotional state.,true
+90,lifestyle,Длительное недосыпание может вызвать бессоницу,Prolonged sleep deprivation can cause insomnia.,disputed
+91,lifestyle,Время суток не имеет значения для качества сна,The time of day does not matter for sleep quality,false
+92,lifestyle,Длительный сон негативно сказывается на психоэмоциональном состоянии,Prolonged sleep has a negative effect on the psycho-emotional state.,disputed
+93,lifestyle,Пища с глютеном это источник пробиотиков,Foods containing gluten are a source of probiotics.,false
+94,lifestyle,Непереносимость глютена ведет к нарушению пищеварения,Gluten intolerance leads to digestive problems.,true
+95,lifestyle,Исключение глютеносодержащих продуктов благотворно влияет на пищеварительную систему,Eliminating gluten-containing foods has a beneficial effect on the digestive system.,false
+96,,Глютен может способствовать набору веса,Gluten may contribute to weight gain.,disputed
+97,lifestyle,Регулярное употребление протеина ускоряет рост мышечной массы у спортсменов,Regular protein intake accelerates muscle growth in athletes.,true
+98,,"В смесях для протеиновых коктейлей есть добавки, которые могут причинить вред организму",Protein shake mixes contain additives that can be harmful to the body.,disputed
+99,lifestyle,"Протеиновые коктейли могут содержать не только белок, но и другие полезные элементы","Protein shakes may contain not only protein, but also other beneficial elements.",true
+100,lifestyle,Спортивный протеин содержит искусственный белок (не натуральный),"Sports protein contains artificial, non-natural protein.",disputed
+101,lifestyle,3% раствор перекиси водорода оказывает временное антисептическое действие,A 3% hydrogen peroxide solution has a temporary antiseptic effect.,true
+102,lifestyle,"3% раствор перекиси водорода недостаточен, чтобы убить все бактерии в ране",A 3% hydrogen peroxide solution is insufficient to kill all bacteria in a wound.,true
+103,lifestyle,3% раствор перекиси водорода полностью обеззараживает любую раны,A 3% hydrogen peroxide solution completely disinfects any wound.,false
+104,altMedicine,Манту можно мочить,It's okay to get your Mantoux test wet.,true
+105,altMedicine,"Туберкулез поражает не только легкие, но и другие ткани организма","Tuberculosis affects not only the lungs, but also other tissues of the body.",true
+106,,С туберкулезом можно жить без лечения,You can live with tuberculosis without treatment.,disputed
+107,altMedicine,Собачье мясо лечит туберкулез,Dog meat cures tuberculosis.,false
