@@ -18,7 +18,7 @@ def recall(df,L,pred):
 print("=== (1) Disputed-suppression threshold rule (pooled frontier votes) ===")
 print("    assign 'disputed' only if its vote-share >= tau, else argmax(true,false)")
 print(f"{'rule':>12} {'accuracy':>9} {'false-rec':>9} {'true-rec':>9} {'disp-rec':>9}")
-S['modal']=S[['sh_true','sh_false','sh_disp']].idxmax(axis=1).str.replace('sh_','')
+S['modal']=S[['sh_true','sh_false','sh_disp']].idxmax(axis=1).str.replace('sh_','').replace({'disp':'disputed'})
 print(f"{'modal(base)':>12} {(S['modal']==S['true']).mean()*100:9.1f} {recall(S,'false','modal'):9.1f} {recall(S,'true','modal'):9.1f} {recall(S,'disputed','modal'):9.1f}")
 for tau in [0.9,0.7,0.6,0.5]:
     S['p']=np.where(S.sh_disp>=tau,'disputed',np.where(S.sh_true>=S.sh_false,'true','false'))

@@ -81,7 +81,7 @@ for ax,(C,ttl) in zip(axes,[(Cfr,"Frontier model-runs"),(Call,"All model-runs")]
     ax.axhline(50,ls=':',c='gray',lw=1)
     ax.set_xlabel("Consensus strength (dominant-label freq.)"); ax.set_title(ttl); ax.set_ylim(-6,106)
 axes[0].set_ylabel("P(consensus label correct), %"); axes[0].legend(loc='lower left',fontsize=8)
-plt.tight_layout(); fig.savefig(OUT/"fig_consensus_mirage.png",dpi=150); print("\nwrote fig_consensus_mirage.png")
+plt.tight_layout(); fig.savefig(OUT/"fig_consensus_mirage.png",dpi=300,bbox_inches="tight"); print("\nwrote fig_consensus_mirage.png")
 
 json.dump({
  "frontier_majority_acc":float(100*Rf.maj_correct.mean()),
