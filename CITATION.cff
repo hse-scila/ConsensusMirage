@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the article and this archived release."
+title: "ConsensusMirage: analysis code and data for \"Agreement among large language models does not track medical truth in health claim verification\""
+type: software
+version: 1.0.0
+date-released: "2026-09-XX"   # FILL: the Zenodo release date
+license: MIT                  # code is MIT; data files are CC-BY-4.0 (see LICENSE-DATA-CC-BY-4.0.txt)
+repository-code: "https://github.com/hse-scila/ConsensusMirage"
+doi: "10.5281/zenodo.XXXXXXX" # FILL: the Zenodo concept/version DOI once minted
+keywords:
+  - large language models
+  - health misinformation
+  - fact-checking
+  - model consensus
+  - epistemic reliability
+  - RuHealth
+  - multilingual evaluation
+authors:
+  - family-names: Artemenko
+    given-names: Elena
+    affiliation: "HSE University"
+    orcid: "https://orcid.org/0000-0002-7610-0089"
+  - family-names: Koltsova
+    given-names: Olessia
+    affiliation: "HSE University"
+    # orcid: "https://orcid.org/FILL"
+  - family-names: Nikolenko
+    given-names: Sergey
+    affiliation: "HSE University"
+    # orcid: "https://orcid.org/FILL"
+  - family-names: Surkov
+    given-names: Anton
+    affiliation: "HSE University"
+    # orcid: "https://orcid.org/FILL"
+  - family-names: Probst
+    given-names: Anna
+    affiliation: "HSE University"
+    # orcid: "https://orcid.org/FILL"
+preferred-citation:
+  type: article
+  title: "Agreement among large language models does not track medical truth in health claim verification"
+  journal: "Scientific Reports"
+  year: 2026
+  doi: "10.1038/FILL"          # FILL: the article DOI once assigned
+  authors:
+    - family-names: Artemenko
+      given-names: Elena
+    - family-names: Koltsova
+      given-names: Olessia
+    - family-names: Nikolenko
+      given-names: Sergey
+    - family-names: Surkov
+      given-names: Anton
+    - family-names: Probst
+      given-names: Anna

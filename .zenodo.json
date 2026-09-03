@@ -1,0 +1,31 @@
+{
+  "title": "ConsensusMirage: analysis code and data for \"Agreement among large language models does not track medical truth in health claim verification\"",
+  "upload_type": "software",
+  "language": "eng",
+  "version": "1.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "large language models",
+    "health misinformation",
+    "fact-checking",
+    "model consensus",
+    "epistemic reliability",
+    "RuHealth",
+    "multilingual evaluation",
+    "medical NLP"
+  ],
+  "creators": [
+    { "name": "Artemenko, Elena", "affiliation": "HSE University", "orcid": "0000-0002-7610-0089" },
+    { "name": "Koltsova, Olessia", "affiliation": "HSE University" },
+    { "name": "Nikolenko, Sergey", "affiliation": "HSE University" },
+    { "name": "Surkov, Anton", "affiliation": "HSE University" },
+    { "name": "Probst, Anna", "affiliation": "HSE University" }
+  ],
+  "description": "Analysis code and released data for the study \"Agreement among large language models does not track medical truth in health claim verification.\" The study evaluates 10 large language models (frontier, Russian-specific and medical-specialized) on RuHealth, a corpus of 108 expert-verified Russian-language health claims (40 true, 40 false, 28 disputed), under a 2x2 prompt design, in Russian and validated English, over multiple decoding temperatures and repeated runs (~90,000 judgements). This archive contains the RuHealth corpus (bilingual), the full model-prediction matrix and a tidy long table, de-identified per-rater human judgements, and Python scripts that reproduce every table and figure in the paper via a single command (bash run_all.sh). Code is released under the MIT License; data files are released under CC BY 4.0 (see the LICENSE files).",
+  "related_identifiers": [
+    { "identifier": "https://github.com/hse-scila/ConsensusMirage", "relation": "isSupplementTo", "scheme": "url" },
+    { "identifier": "10.1038/FILL-article-doi", "relation": "isSupplementTo", "scheme": "doi", "resource_type": "publication-article" }
+  ],
+  "notes": "Dual licensing: source code (code/) is MIT; data (data/, outputs/) is CC BY 4.0. FILL the article DOI in related_identifiers once assigned by Scientific Reports."
+}

@@ -33,8 +33,11 @@ data/
   model_predictions_matrix.csv     wide matrix (one column per model×prompt×lang×temp×run)
   human_expert_ratings_coded.csv   de-identified per-rater human judgements (see below)
 code/                              analysis scripts (Python)
-outputs/                           generated tables (CSV) and the main figure (PNG)
+outputs/                           generated tables (CSV) and figures (PNG)
+prompts/                           prompt templates (2×2 design; see prompts/README.md)
+MODELS.md                          models evaluated: access mode, versions, temperatures
 requirements.txt
+CITATION.cff, .zenodo.json         citation and Zenodo-archival metadata
 ```
 
 ### Data dictionaries
@@ -51,7 +54,7 @@ requirements.txt
 
 ```bash
 pip install -r requirements.txt
-bash run_all.sh                  # runs all ten scripts below, in order
+bash run_all.sh                  # runs all analysis scripts below, in order
 ```
 
 > **One command:** `bash run_all.sh` reproduces the entire pipeline from a fresh clone (all paths are repository-relative). Generated artifacts are written to `outputs/`. To run a single step, call it directly, e.g. `python code/core_metrics.py` — scripts share only files (each reads `data/`, `mixed_model.py` and everything except `build_tidy.py` also read the tidy table), so run `build_tidy.py` first.
