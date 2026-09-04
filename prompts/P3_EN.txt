@@ -1,0 +1,16 @@
+Imagine that you are a medical researcher. Assess the following statement: «{statement}», and assign it to one of the following truth categories according to the rules below:
+«True» – if at the current stage of knowledge there is sufficient research and a broad medical consensus that the statement is entirely true
+«False» – if at the current stage of knowledge there is sufficient research and a broad medical consensus that the statement is entirely false
+«Disputed» – assigned in all other cases.
+Here are representative examples of such cases:
+• Part of the statement is true  (“potatoes and eggs must be washed before boiling” - if there is consensus that potatoes must be washed, but eggs do not)
+• Exaggeration (“sleep is the best remedy for fatigue” - if there is consensus that sleep is a good remedy, but not always the best)
+• Insufficient data  (“nanorobots have learned to treat cancer” - if at the current stage there are only initial experiments applying nanorobots for some types of cancer)
+• Contradictory data (“running is beneficial for strengthening knee joints” - if, according to some studies, running is beneficial, and according to others, it is harmful)
+• Unverifiable statement (“to avoid vitamin deficiency, it is enough to add a little fruit to the diet” - if it is impossible to understand what “a little” means, and the truthfulness of the statement depends on this understanding)
+• Unclear statement (“it is possible to feed oneself with nettle” - if there is consensus that nettle is not dangerous, but using it as a means of satiety is almost impossible)
+
+After completing the assessment, present the result in the following format:
+1. Name of the category in quotation marks.
+2. On a new line – your argumentation in favor of the chosen category, with full references to authoritative sources.
+3. Then provide full bibliographic references for the sources you use in your argumentation.
