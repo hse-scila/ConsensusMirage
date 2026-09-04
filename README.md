@@ -1,6 +1,6 @@
 # RuHealth — The Consensus Mirage
 
-Data and analysis code for **"The Consensus Mirage: Inter-Model Agreement Among Large Language Models Does Not Track Medical Truth"** (Artemenko et al., under review).
+Data and analysis code for **"Agreement among large language models does not track medical truth in health claim verification"** (Artemenko, Koltsova & Nikolenko et al., under review).
 
 > This package is the **analysis-code companion** to the RuHealth corpus release. The corpus files (`ruhealth_statements.csv`, `human_expert_ratings_coded.csv`) are the canonical, de-identified RuHealth artifacts; `model_predictions_*.csv` are this study's model outputs. Everything needed to reproduce every number, table, and figure in the paper is bundled here — `bash run_all.sh` from a fresh clone.
 
